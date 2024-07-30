@@ -38,7 +38,7 @@ Resources:
       EnableDnsHostnames: true
       Tags:
         - Key: Name
-          Value: VPC-WEB-SERVER-CAFE
+          Value: VPC-WEB-SERVER-BOOK
 
   PublicSubnetA:
     Type: AWS::EC2::Subnet
